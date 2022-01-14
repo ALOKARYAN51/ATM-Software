@@ -33,7 +33,7 @@ public class OptionMenu extends Account{
 			int pn = getPinNumber();
 			//for(Entry<Integer, Integer> entry : data.entrySet()) {
 			//	if(entry.getKey() == getCustomerNumber() && entry.getValue() == getPinNumber()) {
-					getAccountType();
+			//		getAccountType();
 			//	}
 			//}
 				if(data.containsKey(cn) && data.get(cn) == pn) {
