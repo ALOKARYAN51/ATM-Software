@@ -11,6 +11,7 @@ public class OptionMenu extends Account{
 	HashMap<Integer, Integer> data = new HashMap<Integer, Integer>();
 	
 	// Validate Login information customer number and pin number.
+	int selection;
 	
 	public void getLogin() throws IOException{
 		int x = 1;
@@ -147,7 +148,7 @@ public class OptionMenu extends Account{
 			getSaving();
 		}
 	}
-	int selection;
+	
 	
 	
 
