@@ -1,6 +1,6 @@
 # ATM-Software
 ## Problem Statement
-This is to make an automated teller machine with user's accounts and password, bank acoount, with that user are able to withdraw, deposit, and view their account balance.
+This is to make an Automated Teller Machine with user's accounts and password, bank acoount, with that user are able to withdraw, deposit, and view their account balance.
 ## ⚙️ Tech Stack
 1. Core Java.
 2. JDK Install.
